@@ -25,6 +25,8 @@ XuePath 正在探索面向中国本地县城中小学的 AI 教学与学习辅�
 - [考察问卷](docs/discussions/round-1/questions.md)：保留原题与填写区，供团队补充回答和证据。
 - [初步回应与产品探索](docs/discussions/round-1/response.md)：保留已有方向、候选思路和开放问题，尚未完整覆盖问卷。
 
+- [第二轮讨论：学生学习辅助的使用场景构思](docs/discussions/round-2/usage-scenarios.md)：五个候选使用画面、首页文字示例与操作入口，首发场景仍待讨论。
+
 - [指导文件与参考资料](docs/references/README.md)：包含中小学 AI 使用指南 PDF，供产品设计和需求分析参考。
 
 ## 接下来要讨论的重点
