@@ -19,6 +19,7 @@ XuePath 正在探索面向中国本地县城中小学的 AI 教学与学习辅�
 ## 探索文档
 
 - [AI 协作约定](AGENTS.md)：团队共同维护的项目背景与工作规则；[Claude Code 入口](CLAUDE.md) 直接导入同一份规则。
+- [协作手册](CONTRIBUTING.md)：供团队成员查阅建分支、提交、PR 审阅、记录决定与合并后的操作流程。
 
 - [第一轮讨论：考察问卷与初步回应](docs/discussions/round-1/README.md)：统一入口，包含 Q1–Q8 与已有回应的对照及待补充内容。
 - [考察问卷](docs/discussions/round-1/questions.md)：保留原题与填写区，供团队补充回答和证据。
