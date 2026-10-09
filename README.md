@@ -26,6 +26,7 @@ XuePath 正在探索面向中国本地县城中小学的 AI 教学与学习辅�
 - [第一轮讨论：考察问卷与初步回应](docs/discussions/round-1/README.md)：统一入口，包含 Q1–Q8 与已有回应的对照及待补充内容。
 - [考察问卷](docs/discussions/round-1/questions.md)：保留原题与填写区，供团队补充回答和证据。
 - [初步回应与产品探索](docs/discussions/round-1/response.md)：保留已有方向、候选思路和开放问题，尚未完整覆盖问卷。
+- [2026-10-08 动态学习讨论记录](docs/discussions/round-1/2026-10-08-dynamic-learning-discussion.md)：连续作业与练习分析、智能学伴提议、上下文管理及商业假设，均保留讨论状态。
 
 - [第二轮讨论：学生学习辅助的使用场景构思](docs/discussions/round-2/usage-scenarios.md)：五个候选使用画面、首页文字示例与操作入口，首发场景仍待讨论。
 
